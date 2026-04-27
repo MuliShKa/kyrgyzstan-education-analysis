@@ -1,0 +1,30 @@
+Metric,Value
+CIS Students (2010),9814.0
+CIS Students (2024),25073.0
+CIS Growth (%),155.5
+CIS Mean (2010-2024),19903.9
+CIS Std Dev,16900.1
+CIS Min,7068.0
+CIS Max,57103.0
+Non-CIS Students (2010),3366.0
+Non-CIS Students (2024),24480.0
+Non-CIS Growth (%),627.3
+Non-CIS Mean (2010-2024),12240.9
+Non-CIS Std Dev,9141.6
+Non-CIS Min,3099.0
+Non-CIS Max,25774.0
+Total Students (2010),13180.0
+Total Students (2024),49553.0
+Total Peak Year,2021.0
+"Budget (2001, mln som)",2847.6
+"Budget (2024, mln som)",83924.4
+Budget Growth (%),2847.2
+Budget Mean (2001-2024),28172.4
+Budget CAGR (%),15.85
+Pearson r (Total vs Budget),0.7373
+Pearson p-value,0.0017
+Spearman rho (Total vs Budget),0.9036
+Spearman p-value,0.0
+Linear Reg slope,0.827529
+Linear Reg intercept,-1935.92
+R-squared,0.5436
